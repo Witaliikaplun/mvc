@@ -11,7 +11,6 @@ public class MainActivity extends AppCompatActivity implements MainView {
     public static final int BUTTON_ID1 = 1;
     public static final int BUTTON_ID2 = 2;
     public static final int BUTTON_ID3 = 3;
-    /** Android Views **/
     private TextView tv1;
     private Button btnCounter1;
     private TextView tv2;
