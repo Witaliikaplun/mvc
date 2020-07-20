@@ -5,7 +5,6 @@ public class Presenter {
     public static final int BUTTON_ID1 = 1;
     public static final int BUTTON_ID2 = 2;
     public static final int BUTTON_ID3 = 3;
-
     private final Model mModel;
     private final MainView mView;
 
